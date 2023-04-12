@@ -1,0 +1,275 @@
+,displayName,description,abbreviation,value,perGameValue,rank
+0,Fumbles,The number of times a player/team has fumbled the ball,FUM,33.0,2.0,2.0
+1,Fumbles Lost,The number of times a fumble is recovered by the opposing team,LST,10.0,,10.0
+2,Forced Fumbles,The total number of forced fumbles.,FF,18.0,,12.0
+3,Fumbles Recovered,The number of fumbles recovered.,FR,9.0,1.0,17.0
+4,Fumbles Touchdowns,The number of times a fumbles is recovered and returned for a touchdown.,FTD,0.0,,15.0
+5,Games Played,Games Played,GP,17.0,,1.0
+6,Two Point Returns,The number of two point attempts that is returned by the offense.,2PTR,0.0,,1.0
+7,Fumbles Touchdowns,The number of times a fumbles is recovered and returned for a touchdown by the offense.,OFTD,0.0,,5.0
+8,Fumbles Touchdowns,The number of times a fumbles is recovered and returned for a touchdown by the defense.,DFTD,0.0,,15.0
+0,Average Gain,The average gained yards per position.,AG,559.679,,15.0
+1,Completion Percentage,The percentage of completed passes.,CMP%,59.151,58.86600112915039,30.0
+2,Completions,The times a player completes a pass to another player who is eligible to catch a pass.,CMP,223.0,13.0,32.0
+3,ESPN Quarterback Rating,The quarterback rating used to compare overall offensive performance relative to other positions.,EQBR,3478.0,,32.0
+4,Interception Percentage,The percentage of passes thrown that were intercepted by the opposing team.,INT%,3.979,4.276000022888184,32.0
+5,Interceptions,The number of passes thrown that were intercepted by the opposing team.,INT,15.0,,22.0
+6,Longest Pass,The longest pass play completed in terms of yards.,LNG,56.0,36.0,27.0
+7,Miscellaneous Yards,The number of miscellaneous yards.,MISC,0.0,,1.0
+8,Net Passing Yards,The amount of net passing yards.,NYDS,2219.0,130.0,32.0
+9,Net Passing Yards Per Game,The amount of net passing yards per game.,NYDS/G,130.52942,,32.0
+10,Net Total Yards,The amount of net total yards.,NTYDS,5233.0,,28.0
+11,Net Yards Per Game,The amount of net total yards per game.,NTYDS/G,307.82352,,28.0
+12,Passing Attempts,The number of times a pass is attempted.,ATT,377.0,22.0,32.0
+13,Passing Big Plays,The number of times a pass results in a big play.,BIGP,38.0,,28.0
+14,Passing 1st downs,The number of times a pass results in a first down.,FIRST,109.0,6.0,32.0
+15,Passing Fumbles,The number of times the ball has been fumbled after a completed pass.,FUM,16.0,,2.0
+16,Passing Fumbles Lost,The number of times the ball has been fumbled and lost to the opposing team after a completed pass.,FL,6.0,,5.0
+17,Passing Touchdown %,The percentage of passes that result in a touchdown.,TD%,5.04,4.545454502105713,7.0
+18,Passing Touchdowns,The total number of passing touchdowns.,TD,19.0,1.0,19.0
+19,Passing Yards,The total passing yards.,YDS,2598.0,152.0,32.0
+20,Passing Yards After Catch,The amount of passing yards after catch.,PYAC,1143.0,,32.0
+21,Passing Yards At Catch,The amount of passing yards when the catch is made.,PY@C,1455.0,,32.0
+22,Passing Yards Per Game,The number of passing yards per game.,YDS/G,152.824,,32.0
+23,Passer Rating,Passer Rating,RTG,80.30917,77.39818572998047,62.0
+24,Total Sacks,The total number of sacks.,SACK,58.0,3.0,4.0
+25,Sack Yards Lost,The amount of yards lost due to sacks.,SYL,379.0,22.0,29.0
+26,Net Passing Attempts,Net Passing Attempts.,NATT,435.0,25.0,36.0
+27,Team Games Played,The amount of games played.,TGP,17.0,,1.0
+28,Total Offensive Plays,The number of total offensive plays.,TOP,993.0,57.0,38.0
+29,Total Points,The number of total points scored.,PTS,326.0,19.0,23.0
+30,Total Points Per Game,The number of points scored per game.,TP,19.176,,23.0
+31,Total Touchdowns,The number of touchdowns scored in total.,TD,37.0,2.0,19.0
+32,Total Yards,The number of yards accumulated in total.,TYDS,5612.0,307.0,28.0
+33,Total Yards From Scrimmage,The amound of total yards from the line of scrimmage.,CMP,0.0,,1.0
+34,Two Point Pass Conversions,The number of times a 2-point conversion is successful with a pass.,2PTPC,-1.0,-1.0,1.0
+35,Two Point Pass,The number of times a pass was thrown for 2 points.,2PTP,1.0,,14.0
+36,Two Point Pass Attempts,The number of times a pass was attempted on a 2-point conversion.,2PTPA,5.0,1.0,5.0
+37,Yards From Scrimmage Per Game,The yards gained from scrimmage per game.,SCRIM/G,0.0,,1.0
+38,Yards Per Completion,The average number of yards per pass completion.,CMP,11.65,9.913000106811523,8.0
+39,Yards Per Game,The average number of yards per game.,YDS/G,330.118,,28.0
+40,Yards Per Pass Attempt,The average number yards per pass attempt.,AVG,6.891,6.941999912261963,20.0
+41,Net Yards Per Pass Attempt,The average number net yards (taking sack yardage into account) per pass attempt.,NYDS/PA,5.101149425287356,5.2,
+42,Quarterback Rating,Quarterback Rating.,RAT,80.30917,77.39818572998047,62.0
+0,Average Gain,The average gained yards per position.,AG,559.679,,15.0
+1,ESPN RB Rating,The ESPN Widereceiver Rating.,ESPNRB,3494.0,,1.0
+2,Long Rushing,The amount of yards for the longest run.,LNG,67.0,37.0,9.0
+3,Miscellaneous Yards,The amount of miscellaneous yards.,MISC,0.0,,1.0
+4,Net Total Yards,The amount of total net yards.,NTYDS,5233.0,,28.0
+5,Net Yards Per Game,The total net yards gained per game.,CMP,307.82352,,28.0
+6,Rushing Attempts,The total number of attempted rushes.,ATT,558.0,32.0,2.0
+7,20+ Yard Rushing Plays,The number of rushing big plays gained.,BIG,20.0,,2.0
+8,Rushing 1st downs,The number of times a first down is picked up by a run.,FD,148.0,8.0,5.0
+9,Rushing Fumbles,The number of times there is a run and then the ball is fumbled.,FUM,20.0,,2.0
+10,Rushing Fumbles Lost,The number of times there is a run and then the ball is fumbled.,LST,2.0,,13.0
+11,Rushing Touchdowns,The total number of rushing touchdowns.,TD,18.0,1.0,7.0
+12,Rushing Yards,The total rushing yards.,YDS,3014.0,177.0,1.0
+13,Rushing Yards Per Game,The average number of rushing yards per game.,YDS/G,177.294,,1.0
+14,Stuffs,The number of times a run is stopped at or behind the line of scrimmage.,STF,49.0,,18.0
+15,Stuff Yards Lost,The number of yards lost when a run is stuffed.,SYDSL,-97.0,,15.0
+16,Team Games Played,The numbers of team games played.,GP,17.0,,1.0
+17,Total Offensive Plays,The number of offenseive plays run.,OP,993.0,57.0,38.0
+18,Total Points,The number of total points earned.,PTS,326.0,19.0,23.0
+19,Total Points Per Game,The average number of points scored per game.,TP/G,19.176,,23.0
+20,Total Touchdowns,The number of total Touchdowns scored.,TD,37.0,2.0,19.0
+21,Total Yards,The number of total yards gained.,TYDS,5612.0,307.0,28.0
+22,Total Yards From Scrimmage,The number of yards gained from the line of scrimmage.,SCRIM,0.0,,1.0
+23,Two Point Rush Conversion,The number of times a 2-point is converted with a run.,2PTC,-1.0,-1.0,1.0
+24,Two Point Rush,The number of rushes on 2-point attempts.,2PTR,0.0,,14.0
+25,Two Point Rush Attempts,The number of times a 2-point conversion is attempted with a rush.,CMP,0.0,,20.0
+26,Yards From Scrimmage Per Game,The average number of yards gained from scrimmage per game.,SCRIM/G,0.0,,1.0
+27,Yards Per Game,The average number of yards per game.,YDS/G,330.118,,28.0
+28,Yards Per Rush Attempt,The average number of yards per rush attempt.,AVG,5.401,5.427000045776367,1.0
+0,Average Gain,The average gained yards per position.,AG,559.679,,15.0
+1,ESPN Widereceiver Rating,The ESPN Widereceiver Rating.,ESPNWR,4378.0,,32.0
+2,Long Reception,The amount of yards for the longest reception.,LNG,56.0,36.0,27.0
+3,Miscellaneous Yards,The amount of miscellaneous yards.,MISC,0.0,,1.0
+4,Net Total Yards,The amount of total net yards.,NTYDS,5233.0,,28.0
+5,Net Yards Per Game,The total net yards gained per game.,CMP,307.82352,,28.0
+6,20+ Yard Receiving Plays,The number of receiving big plays gained.,BIG,38.0,,28.0
+7,Receiving First Downs,The number of times a first down is picked up by a reception.,FD,109.0,,32.0
+8,Receiving Fumbles,The number of times a reception is made and then the ball is fumbled.,FUM,16.0,,2.0
+9,Receiving Fumbles Lost,The number of times a reception is made and the balled is fumbled and recovered by the opposing team.,LST,6.0,,5.0
+10,Receiving Targets,The number of times a receiver is thrown to.,TGTS,359.0,21.0,32.0
+11,Receiving Touchdowns,The total number of receiving touchdowns.,TD,19.0,1.0,19.0
+12,Receiving Yards,The total receiving yards.,YDS,2598.0,152.0,32.0
+13,Receiving Yards After Catch,The number of yards gained after the catch has been made.,YAC,1146.0,67.0,32.0
+14,Receiving Yards At Catch,The number of yards gained at the time the catch is made.,Y@C,1452.0,,32.0
+15,Receiving Yards Per Game,The average number of receiving yards per game.,YDS/G,152.824,,32.0
+16,Receptions,The total number of receptions.,REC,223.0,13.0,32.0
+17,Team Games Played,The numbers of team games played.,GP,17.0,,1.0
+18,Total Offensive Plays,The number of offenseive plays run.,OP,993.0,57.0,38.0
+19,Total Points,The number of total points earned.,PTS,326.0,19.0,23.0
+20,Total Points Per Game,The average number of points scored per game.,TP/G,19.176,,23.0
+21,Total Touchdowns,The number of total Touchdowns scored.,TD,37.0,2.0,19.0
+22,Total Yards,The number of total yards gained.,TYDS,5612.0,307.0,28.0
+23,Total Yards From Scrimmage,The number of yards gained from the line of scrimmage.,SCRIM,0.0,,1.0
+24,Two Point Receiving Conversion,The number of times a 2-point is converted with a reception.,2PTC,-1.0,-1.0,1.0
+25,Two Point Receptions,The number of receptions on 2-point attempts.,2PTR,1.0,,14.0
+26,Two Point Reception Attempts,The number of times a 2-point conversion is attempted with a reception.,CMP,4.0,1.0,6.0
+27,Yards From Scrimmage Per Game,The average number of yards gained from scrimmage per game.,SCRIM/G,0.0,,1.0
+28,Yards Per Game,The average number of yards per game.,YDS/G,330.118,,28.0
+29,Yards Per Reception,The average number of yards per reception.,AVG,11.65,11.913000106811523,8.0
+0,Assist Tackles,The number of assists on tackles.,AST,411.0,21.0,1.0
+1,Average Interception Yards,The average number of return yards per interception.,AVG,14.357,14.204000473022461,14.0
+2,Average Sack Yards,The average number of yards lost per sack.,YDS/SACK,6.2,6.422999858856201,26.0
+3,Average Stuff Yards,The average number of yards lost per stuff.,YDS/STF,2.213,,32.0
+4,Block Field Goal Touchdown,The number of blocked field goals that were returned for a touchdown.,BFGTD,0.0,,2.0
+5,Blocked Punt Touchdowns,The number of blocked punts that were returned for touchdowns.,BPTD,0.0,,7.0
+6,Defensive Touchdown,The number of touchdowns recorded on defense.,TD,0.0,,29.0
+7,Hurries,The number of times that the quarterback is hurried.,HUR,0.0,,1.0
+8,Kicks Blocked,The number of times a kick was blocked.,KB,1.0,,13.0
+9,Long Interception,The amount of yards of the longest interception return.,LNG,42.0,,17.0
+10,Miscellaneous Touchdowns,The number of miscellaneous touchdowns.,MISCTD,0.0,,6.0
+11,Passes Batted Down,The number of passes that were batted down.,BATD,0.0,,1.0
+12,Passes Defended,The total number of passes defended.,PD,50.0,2.0,32.0
+13,Two Point Returns,The number of two point attempts that is returned by the defense.,2PTR,0.0,,1.0
+14,Sacks,The total number of sacks.,SACK,20.0,1.1759999990463257,32.0
+15,Sack Yards,The number of yards lost from sacks.,SCKYDS,124.0,7.294000148773193,32.0
+16,Safeties,The number of times the offense is tackled in their own endzone.,SAFE,0.0,,10.0
+17,Solo Tackles,The number of times a tackle was made unassisted.,SOLO,812.0,43.0,8.0
+18,Stuffs,The number of times that a runner is stuffed at or behind the line of scrimmage.,STF,47.0,4.0,5.0
+19,Stuff Yards,The number of yards lost from stuffs.,STFYDS,104.0,,32.0
+20,Tackles For Loss,The number of tackles that result in a loss of yardage.,TFL,67.0,3.940999984741211,29.0
+21,Team Games Played,The numbers of team games played.,GP,17.0,,1.0
+22,Total Tackles,The total number of tackles.,TOT,1223.0,64.0,9.0
+23,Yards Allowed,Yards allowed,YA,0.0,,1.0
+24,Points Allowed,Points allowed,PA,0.0,,1.0
+25,One Point Safeties Made,One Point Safeties Made,OPSM,0.0,,1.0
+0,Interceptions,The total number of interceptions.,INT,14.0,,12.0
+1,Interception Touchdowns,The number of times an interception is returned for a touchdown.,TD,0.0,,25.0
+2,Interception Yards,The number of yards gained after an interception.,YDS,201.0,11.0,9.0
+0,Average Kickoff Return Yards,The average number of yards per kickoff return.,YDS/KR,26.211,27.027999877929688,16.0
+1,Average Kickoff Yards,The average number of yards per kickoff.,YDS/K,63.066,26.849000930786133,6.0
+2,Extra Point Attempts,The number of extra point attempts.,XPA,32.0,1.0,11.0
+3,Extra Point Percentage,The percentage of extra point attempts that are converted.,XP%,84.375,83.8239974975586,16.0
+4,Extra Point Blocked,The number of extra points blocked.,XPB,0.0,,1.0
+5,Extra Points Blocked Percentage,The percentage of extra points attempts that are blocked.,XPB%,0.0,,1.0
+6,Extra Points Made,The number of extra point attempts made.,XPM,27.0,1.0,13.0
+7,Fair Catches,The number of fair catches.,FC,0.0,,1.0
+8,Fair Catch Percentage,The percentage of kicks that are fair catches.,FC%,0.0,13.16100025177002,1.0
+9,Field Goal Attempts,The number of times a field goal is attempted.,FGA,27.0,1.0,15.0
+10,Field Goal Attempts 1-19,The number of field goals attempted from 1-19 yards.,FGA 1-19,0.0,,2.0
+11,Field Goal Attempts 20-29,The number of field goals attempted from 20-29 yards.,FGA 20-29,6.0,,11.0
+12,Field Goal Attempts 30-39,The number of field goals attempted from 30-39 yards.,FGA 30-39,8.0,,7.0
+13,Field Goal Attempts 40-49,The number of field goals attempted from 40-49 yards.,FGA 40-49,8.0,,9.0
+14,Field Goal Attempts 50-59,The number of field goals attempted from 50-59 yards.,FGA 50-59,5.0,,11.0
+15,Field Goal Attempts 60-99,The number of field goals attempted from 60-99 yards.,FGA 60-99,0.0,,6.0
+16,Field Goal Attempts 50+,The number of field goals attempted from 50+ yards.,FGA 50+,5.0,,5.0
+17,Field Goal Attempt Yards,The number of yards for field goal attempts.,FGAYDS,1017.0,59.0,15.0
+18,Field Goal Percentage,The percentage of field goals attempted that are made.,FG%,92.593,71.56900024414062,3.0
+19,Field Goals Blocked,The number of field goals that are blocked.,FGB,1.0,,9.0
+20,Field Goals Blocked Percentage,The percentage of field goals attempted that are blocked.,CMP,3.704,1.9609999656677246,11.0
+21,Field Goal Made,The number of times a field goal is made.,FGM,25.0,1.0,11.0
+22,Field Goals Made 1-19,The number of field goals made from 1-19 yards.,FGM 1-19,0.0,,2.0
+23,Field Goals Made 20-29,The number of field goals made from 20-29 yards.,FGM 20-29,6.0,,11.0
+24,Field Goals Made 30-39,The number of field goals made from 30-39 yards.,FGM 30-39,8.0,,6.0
+25,Field Goals Made 40-49,The number of field goals made from 40-49 yards.,FGM 40-49,7.0,,7.0
+26,Field Goals Made 50-59,The number of field goals made from 50-59 yards.,FGM 50-59,4.0,,8.0
+27,Field Goals Made 60-99,The number of field goals made from 60-99 yards.,FGM 60-99,0.0,,4.0
+28,Field Goals Made 50+,The number of field goals made from 50+ yards.,50+,4.0,,12.0
+29,Field Goals Made Yards,The total amount of yardage of field goals made.,FGMYDS,921.0,54.0,11.0
+30,Field Goals Missed Yards,The total amount of yardage of missed field goals.,FGMSYD,96.0,5.0,15.0
+31,Kickoff Returns,The number of times a kickoff was returned.,KR,38.0,2.0,3.0
+32,Kickoff Return Touchdowns,The number of times a kickoff was returned for a touchdown.,KRTD,1.0,,15.0
+33,Kickoff Return Yards,The total amount of yardage of kick returns.,KRYDS,996.0,58.0,15.0
+34,Kickoffs,The number of kickoffs taken.,K,76.0,4.0,15.0
+35,Kickoff Yards,The total amount of yardage of kickoffs.,KYDS,4793.0,123.0,15.0
+36,Long Field Goal Attempt,The distance of the longest field goal attempt.,LFGA,56.0,,9.0
+37,Long Field Goal Made,The distance of the longest field goal made.,LNG,51.0,29.0,15.0
+38,Long Kickoff,The distance of the longest kickoff.,LK,71.0,54.0,8.0
+39,Team Games Played,The numbers of team games played.,GP,17.0,,1.0
+40,Total Kicking Points,The number of total points earned kicking.,PTS,102.0,6.0,14.0
+41,Touchback Percentage,The percentage of kickoffs that are touchbacks.,TB%,53.947,55.60200119018555,13.0
+42,Touchbacks,The number of kickoffs that result in touchbacks.,TB,41.0,2.0,14.0
+0,Defensive Fumbles Returns,The number of fumble returns.,DFR,0.0,,1.0
+1,Defensive Fumble Return Yards,The amount of total yardage from fumble returns.,DFRYDS,0.0,,1.0
+2,Fumble Recoveries,The number of fumble recoveries.,FR,9.0,,17.0
+3,Fumble Recovery Yards,The amount of total yardage from fumble recoveries.,YDS,29.0,,14.0
+4,Kick Return Fair Catches,The number of kick return fair catches.,KRFC,0.0,,1.0
+5,Kick Return Fair Catch Percentage,The percentage of kick returns that are fair caught.,KRFC%,0.0,,1.0
+6,Kick Return Fumbles,The number of kick return fumbles.,KRF,0.0,,1.0
+7,Kick Return Fumbles Lost,The number of kick return fumbles that are lost.,KRFL,0.0,,1.0
+8,Kick Returns,The number of kick returns.,ATT,38.0,2.0,5.0
+9,Kick Return Touchdowns,The number of kick return touchdowns.,TD,0.0,,6.0
+10,Kick Return Yards,The total yardage of kick returns.,YDS,996.0,58.0,3.0
+11,Long Kick Return,The longest kick return in yards.,LNG,63.0,31.0,10.0
+12,Long Punt Return,The longest punt return in yards.,LNG,27.0,9.0,15.0
+13,Miscellaneous Fumbles Returns,The number of fumble returns.,MFR,0.0,,1.0
+14,Miscellaneous Fumble Return Yards,The amount of total yardage from fumble returns.,MFRYDS,0.0,,1.0
+15,Opposition Fumble Recoveries,The number of fumble recoveries by the opposition.,OPFR,10.0,,10.0
+16,Opposition Fumble Recovery Yards,The amount of total yardage from fumble recoveries by the opposition.,OFRYDS,54.0,,9.0
+17,Opposition Special Team Fumble Returns,The number of fumble returns by the opposition's speical teams.,OPSTFR,0.0,,1.0
+18,Opposition Special Team Fumble Return Yards,The amount of total yardage from fumble return by the opposition's special teams.,OFRYDS,0.0,,1.0
+19,Punt Return Fair Catches,The number of punt return fair catches.,FC,10.0,,31.0
+20,Punt Return Fair Catch Percentage,The percentage of kick returns that are fair caught.,PRFC%,43.478,,28.0
+21,Punt Return Fumbles,The number of punt return fumbles.,PRF,0.0,,1.0
+22,Punt Return Fumbles Lost,The number of punt return fumbles that are lost.,PRFL,0.0,,1.0
+23,Punt Returns,The number of punt returns.,ATT,23.0,1.0,26.0
+24,Punt Returns Started Inside the 10,The number of punt returns started inside the 10.,PR 10,0.0,,1.0
+25,Punt Returns Started Inside the 20,The number of punt returns started inside the 20.,PR 20,0.0,,1.0
+26,Punt Return Touchdowns,The number of punt return touchdowns.,TD,0.0,,4.0
+27,Punt Return Yards,The total yardage of punt returns.,YDS,198.0,11.0,25.0
+28,Special Team Fumbles Returns,The number of special team fumble returns.,STFR,0.0,,1.0
+29,Special Team Fumble Return Yards,The amount of total yardage from special team fumble returns.,STFRYD,0.0,,1.0
+30,Team Games Played,The numbers of team games played.,GP,17.0,,1.0
+31,Yards Per Kick Return,The average number of yards per kick return.,AVG,26.211,27.027999877929688,2.0
+32,Yards Per Punt Return,The average number of yards per punt return.,AVG,8.609,6.705999851226807,17.0
+33,Yards Per Return,The average number of yards per return.,YDS/R,19.574,,3.0
+0,Average Punt Return Yards,The average number of yards per punt return.,AVG,9.065,7.125,14.0
+1,Fair Catches,The number of fair catches.,FC,20.0,1.0,14.0
+2,Gross Average Punt Yards,The average gross number of yards per punt.,AVG,46.03,44.70899963378906,22.0
+3,Long Punt,The distance of the longest punt.,LNG,63.0,53.0,28.0
+4,Net Average Punt Yards,The average net number of yards per punt.,NET,41.149,40.11199951171875,28.0
+5,Punt Returns,The number of times a punt was returned.,ATT,31.0,1.0,13.0
+6,Punt Return Yards,The total amount of yardage of punt returns.,YDS,281.0,16.0,12.0
+7,Punts,The number of punts taken.,PUNTS,66.0,3.0,18.0
+8,Punts Blocked,The number of times a punt was blocked.,PBLK,1.0,,3.0
+9,Punts Blocked Percentage,The percentage of punts that are blocked.,PBLK%,1.515,0.01899999938905239,5.0
+10,Punts Inside 10,The number of times a punt is downed inside the 10.,P 10,8.0,,13.0
+11,Punts Inside 10 Percentage,The percentage of punts that end up inside the 10.,P 10%,12.121,,14.0
+12,Punts Inside 20,The number of times a punt is downed inside the 20.,IN20,20.0,1.0,26.0
+13,Punts Inside 20 Percentage,The percentage of punts that end up inside the 10.,IN20%,30.303,27.64699935913086,26.0
+14,Punt Yards,The total amount of yardage of punts.,YDS,3038.0,178.0,19.0
+15,Team Games Played,The numbers of team games played.,GP,17.0,,1.0
+16,Touchback Percentage,The percentage of punts that are touchbacks.,TB%,4.545,5.881999969482422,24.0
+17,Touchbacks,The number of kickoffs that result in touchbacks.,TB,3.0,,22.0
+0,Defensive Points,The number of points scored on defense.,DP,0.0,,11.0
+1,Field Goals,The number of field goals made.,FG,25.0,1.0,23.0
+2,Kick Extra Points,The number of extra points made.,PAT,27.0,1.0,25.0
+3,Miscellaneous Points,The number of miscellaneous points scored.,MISP,0.0,,1.0
+4,Passing Touchdowns,The total number of passing touchdowns.,PASS,19.0,1.0,19.0
+5,Receiving Touchdowns,The total number of receiving touchdowns.,REC,19.0,1.0,19.0
+6,Return Touchdowns,The total number of return touchdowns.,RET,0.0,,31.0
+7,Rushing Touchdowns,The total number of rushing touchdowns.,RUSH,18.0,1.0,7.0
+8,Total Points,The number of total points scored.,PTS,326.0,19.0,23.0
+9,Total Points Per Game,The number of points scored per game.,TP/G,19.176,,23.0
+10,Total Touchdowns,The number of touchdowns scored in total.,TD,37.0,2.0,19.0
+11,Total Two Point Conversions,The number of times a 2-point conversion is successful.,2PT,1.0,,18.0
+12,Two Point Pass Conversions,The number of times a 2-point conversion is successful with a pass.,2PTPC,1.0,,14.0
+13,Two Point Receiving Conversion,The number of times a 2-point is converted with a reception.,2PTRCC,1.0,,14.0
+14,Two Point Rush Conversion,The number of times a 2-point is converted with a run.,2PTRUC,0.0,,14.0
+15,One Point Safeties Made,One Point Safeties Made,OPSM,0.0,,1.0
+0,Total 1st downs,The the number of first downs.,CMP,278.0,16.0,30.0
+1,Passing 1st downs,The number of times a pass results in a first down.,FDP,109.0,6.0,32.0
+2,1st downs by penalty,The number of times a penalty results in a first down.,FDPEN,21.0,1.0,29.0
+3,First Downs Per Game,The average number of first downs per game.,FD/G,16.353,16.0,30.0
+4,Rushing 1st downs,The number of times a rush results in a first down.,FDR,148.0,8.0,5.0
+5,First Downs Attempts,The number of attempts at getting a first down.,FDA,25.0,1.0,12.0
+6,4th down %,The percentage of fourth down attempts that are converted.,4THC%,32.0,19.607999801635742,31.0
+7,Fourth Down Conversions,The number of times a fourth down is converted.,4THC,8.0,,26.0
+8,Fumbles Lost,The number of times the ball has been fumbled and lost to the opposing team .,LST,10.0,,10.0
+9,Possession Time Seconds,The total time of possession in seconds.,POSS,30103.0,1770.0,24.0
+10,Red Zone Efficiency Percentage,The percentage of red zone attempts that are converted.,CMP,67.14,,15.0
+11,Red Zone Field Goal Percentage,The percentage of red zone trips that end in a field goal.,RZFG%,26.0,,18.0
+12,Red Zone Scoring Percentage,The percentage of red zone trips that result in a score.,RZ%,82.0,58.0,17.0
+13,Red Zone Touchdown Percentage,The percentage of red zone trips that result in a touchdown.,RZTD%,56.0,,12.0
+14,Third Down Attempts,The number of 3rd down attempts.,3RDA,220.0,12.0,14.0
+15,3rd down %,The percentage of 3rd downs that are converted.,3RDC%,40.909,39.10599899291992,13.0
+16,Third Down Conversions,The number of 3rd down conversions.,3RDC,90.0,5.0,12.0
+17,Total Giveaways,The total number of giveaways.,TGV,25.0,,4.0
+18,Total Penalties,The total number of total penalties.,TPEN,80.0,4.0,30.0
+19,Total Penalty Yards,The total number of penalty yards.,TPY,754.0,44.0,19.0
+20,Total Takeaways,The total number of takeaways.,TT,23.0,,14.0
+21,Total Drives,The total number of drives.,D,0.0,,1.0
+22,Turnover Ratio,Difference between take-aways and give-aways,DIFF,-2.0,,20.0
